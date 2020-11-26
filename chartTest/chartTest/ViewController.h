@@ -6,6 +6,7 @@
 //  Copyright © 2019 惠一路. All rights reserved.
 //
 //init hyl git
+//version 1.2
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
